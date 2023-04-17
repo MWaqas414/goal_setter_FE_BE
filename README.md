@@ -1,1 +1,1 @@
-# Goal Setter App
+# Goal Setter App FE && BE
